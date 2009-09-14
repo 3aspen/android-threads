@@ -9,9 +9,9 @@
     <groupId>com.threeaspen.android</groupId>
     <artifactId>android-threads</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>Android Threading Library</name>
     <scm>
-        <developerConnection>scm:svn:svn+ssh://svn.broudy.net/svn-projects/broudy/mobile/android-threads/tags/android-threads-1.0</developerConnection>
+        <developerConnection>scm:svn:svn+ssh://svn.broudy.net/svn-projects/broudy/mobile/android-threads/trunk</developerConnection>
     </scm>
 </project>
